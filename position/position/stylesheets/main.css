@@ -1,0 +1,81 @@
+/*********** GENERAL ***********/
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.6rem;
+	background: #f2f2f2;
+	padding: 25px;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+
+a {
+	text-decoration: none;
+	font-size: 1.4rem;
+	color: #000;
+	text-align: center;
+	display: block;
+	padding: 10px 15px;
+	text-transform: uppercase;;
+	color: #0d9b75;
+	font-weight: 500;
+}
+
+
+
+.main-header {
+	background: #0ACE99;
+	padding: 25px;
+	height: 1000px;
+}
+
+.main-nav {
+	width: 50%;
+	padding: 25px;
+	margin: 60px auto;
+	position: relative;
+}
+
+.main-nav li {
+	background: #fff;
+	border: solid 2px #0d9b75;
+	border-bottom: solid 1px #0d9b75;
+}
+
+
+
+.item1 {
+	position: absolute;
+	top: 50px;
+	left: 0;
+}
+
+.item2 {
+	position:absolute;
+	bottom: 0;
+	right: -20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
